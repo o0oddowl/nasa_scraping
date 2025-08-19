@@ -12,8 +12,8 @@ This Python-based web scraper collects all news articles published on [nasa.gov]
 
 ---
 
-```text
 ## 📁 Project Structure
+```text
 nasa_scraper/
 ├── src/
 │ └── scraper/
