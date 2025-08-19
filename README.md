@@ -21,7 +21,6 @@ nasa_scraper/
 ├── data/
 │ ├── nasa_news.csv # Created automatically on script execution
 │ └── urls_news.csv # Used internally for automation
-├── README.md
 └── requirements.txt
 ```
 
@@ -39,5 +38,6 @@ pip install -r requirements.txt
 
 ## 🚀 Running the Scraper
 To run the scraper:
-    python3.11 src/scraper/scraper.py
-
+```bash
+python3.11 src/scraper/scraper.py
+```
