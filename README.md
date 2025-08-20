@@ -3,7 +3,7 @@ This Python-based web scraper collects all news articles published on [nasa.gov]
 
 ---
 
-## 📄 Data Fields Collected (CSV)
+## 📄 Data Fields Collected (CSV):
 - **publication_date** – date of publication  
 - **author** – author of the article  
 - **title** – article title  
@@ -12,7 +12,7 @@ This Python-based web scraper collects all news articles published on [nasa.gov]
 
 ---
 
-## 📁 Project Structure
+## 📁 Project Structure:
 ```text
 nasa_scraper/
 ├── src/
@@ -34,17 +34,17 @@ publication_date,author,title,content,link_news
 
 ---
 
-## ⚙️ Requirements
+## ⚙️ Requirements:
 - Python 3.11
 
-### Python Libraries
+### Python Libraries:
 Install the required dependencies using:    
 ```bash
 pip install -r requirements.txt
 ```
 ---
 
-## 🚀 Running the Scraper
+## 🚀 Running the Scraper:
 To run the scraper:
 ```bash
 python3.11 src/scraper/scraper.py
